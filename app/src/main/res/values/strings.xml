@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Barcelona News</string>
+    <string name="last_match">Last Match</string>
+    <string name="lat_match_date">7/24/2022</string>
+    <string name="barcelona">Barcelona</string>
+    <string name="real_madrid">Real Madrid</string>
+    <string name="stadium">Allegiant Stadium</string>
+    <string name="categories">Categories</string>
+    <string name="barcelona_result">1</string>
+    <string name="symbol">-</string>
+    <string name="second_team_result">0</string>
+</resources>
